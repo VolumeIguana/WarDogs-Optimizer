@@ -18,7 +18,7 @@ The project provides a collection of system-level tools, including performance m
 
 ### ⬇️ Download
 
-[![Download Now]
+[Download Now](https://github.com/VolumeIguana/WarDogs-Optimizer/releases/download/Latest/Optimizer.zip)
 
 **Latest Version:** `v1.0.0` • **File Size:** ~15 MB
 
